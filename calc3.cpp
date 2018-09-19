@@ -2,7 +2,7 @@
 Author: Xing Tao Shi
 Course: CSCI-135
 Instructor: Maryash
-Assignment: Lab1C
+Assignment: Lab1D
 
 This program acts as a calculator for non negative integers
 and only processes +/-/^. It can process multiple lines
